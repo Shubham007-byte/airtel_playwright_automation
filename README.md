@@ -1,0 +1,1 @@
+🚀 End-to-end test automation framework for Airtel.in built using Playwright with TypeScript, following the Page Object Model (POM) design pattern. Includes reusable utilities, fixtures, and configuration for fast, reliable web UI testing and CI/CD integration.
