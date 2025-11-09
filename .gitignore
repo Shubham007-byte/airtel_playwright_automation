@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Playwright report and test results
+playwright-report/
+reporting/
+reporting/*
+reporting/**
+
+# TypeScript build
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+
+# Misc
+coverage/
+*.local
+*.log
+
+# Lockfiles (optional to ignore if you want them in repo)
+# package-lock.json
+# yarn.lock

@@ -1,0 +1,34 @@
+<testsuites id="" name="" tests="2" failures="0" skipped="0" errors="0" time="8.845981">
+<testsuite name="individual.spec.ts" timestamp="2025-11-09T08:19:05.685Z" hostname="chromium" tests="2" failures="0" skipped="0" time="7.046" errors="0">
+<testcase name="Individual section tests › navigate to Individual section and validate" classname="individual.spec.ts" time="3.641">
+<system-out>
+<![CDATA[✅ Airtel homepage loaded successfully
+✅ Individual link is visible
+✅ Business link is visible
+✅ Airtel logo is visible on the homepage
+✅ Clicked on Individual link
+✅ Individual section contains expected content
+]]>
+</system-out>
+</testcase>
+<testcase name="Individual section tests › verify the main features in Individual section" classname="individual.spec.ts" time="3.405">
+<system-out>
+<![CDATA[✅ Airtel homepage loaded successfully
+✅ Individual link is visible
+✅ Business link is visible
+✅ Airtel logo is visible on the homepage
+✅ Clicked on Individual link
+✅ Wi-Fi link visible
+✅ Postpaid visible
+✅ Prepaid visible
+✅ DTH visible
+✅ Airtel Black visible
+⚠️ Bank element present in DOM but not visible
+✅ Finance visible
+✅ Help/Support visible
+⚠️ Refer & Earn element present in DOM but not visible
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
